@@ -35,7 +35,7 @@ hi Folded       guifg=#75715E guibg=bg gui=none ctermfg=8 ctermbg=bg cterm=none
 hi FoldColumn   guifg=#75715E guibg=#3E3D32 gui=none ctermfg=8 ctermbg=9 cterm=none
 hi SignColum    guifg=#75715E guibg=#3E3D32 gui=none ctermfg=8 ctermbg=9 cterm=none
 hi IncSearch    guifg=bg guibg=#E6DB74 gui=none ctermfg=bg ctermbg=3 cterm=none
-hi LineNr       guifg=#75715E guibg=#3E3D32 gui=none ctermfg=8 ctermbg=9 cterm=none
+hi LineNr       guifg=#85918A guibg=#272721 gui=none ctermfg=8 ctermbg=9 cterm=none
 hi MatchParen   guifg=fg guibg=bg gui=bold ctermfg=fg ctermbg=bg cterm=bold
 hi ModeMsg      gui=none cterm=none
 hi MoreMsg      guifg=#66D9EF gui=none ctermfg=4 cterm=none
@@ -51,8 +51,8 @@ hi SpellBad     guisp=#F92672
 hi SpellCap     guisp=#65D9EF
 "hi SpellLocal
 hi SpellRare    guisp=#AE81FF
-hi StatusLine   guifg=fg guibg=#3E3D32 gui=none ctermfg=fg ctermbg=9 cterm=none
-hi StatusLineNC guifg=#75715E guibg=#3E3D32 gui=none ctermfg=8 ctermbg=9 cterm=none
+" hi StatusLine   guifg=fg guibg=#3E3D32 gui=none ctermfg=fg ctermbg=9 cterm=none
+" hi StatusLineNC guifg=#75715E guibg=#3E3D32 gui=none ctermfg=8 ctermbg=9 cterm=none
 hi TabLine      guifg=#75715E guibg=#3E3D32 gui=none ctermfg=8 ctermbg=9 cterm=none
 hi TabLineFill  guifg=fg guibg=#3E3D32 gui=none ctermfg=fg ctermbg=9 cterm=none
 hi TabLineSel   guifg=fg guibg=#3E3D32 gui=none ctermfg=fg ctermbg=9 cterm=none
